@@ -1,3 +1,5 @@
+# Classifiers
+
 ## Description
 
 classifier.py classifies [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset and report the f1-score as well as the accuracy on the test dataset. It uses PCA, LDA and logistic regression for dimensionality reduction, and gives output of logistic regression, Linear SVM, SVM RBF kernel, Decision tree classifier.
